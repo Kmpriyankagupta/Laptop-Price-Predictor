@@ -1,2 +1,6 @@
-# Laptop-Price-Predictor
-Built laptop-price-predictor and deploy on Heroku platform
+Model deploy using streamlit on Heroku Platform
+
+
+link of project=https://laptop-price-prediction-pg.herokuapp.com/
+
+In this project I built a model for predicting the Laptop Price.
